@@ -1,9 +1,9 @@
 # not-so-radical-effects
 This repository contains the replication materials for the dissertation 'Not so Radical Effects: Estimating the Causal Impact of Radical Right Representation on Political Support', submitted in part-fulfilment of the BSc Philosophy, Politics and Economics at University College London.
 
-### Repository contents
+## Repository contents
 
-#### Data folder
+### Data folder
 The [Data](./Data/) folder contains the raw datasets used in the analysis:
 - [GLES panel](./Data/GLES%20panel/): contains waves 1 through 21 of the German Longitudinal Election Study, obtained from GESIS - Leibniz Institut für Sozialwissenschaften.
 - [Constituency structural data](./Data/Constituency%20structural%20data/): contains all covariates, which have been obtained from the Statistical Officer for the Länder ([land_surface.csv](./Data/Constituency%20structural%20data/land_surface.csv), [total_population.csv](./Data/Constituency%20structural%20data/total_population.csv), [total_foreigners.csv](./Data/Constituency%20structural%20data/total_foreigners.csv)), the Federal Employment Agency ([unemployment_2017_2018.xlsx](./Data/Constituency%20structural%20data/unemployment_2017_2018.xlsx), [unemployment_2020_2021.xlsx](./Data/Constituency%20structural%20data/unemployment_2020_2021.xlsx)), and the conversion table that is used to aggregate administrative-district-level covariates to the constituency level.
@@ -11,7 +11,7 @@ The [Data](./Data/) folder contains the raw datasets used in the analysis:
 
 **Please note: the data containing the constituency of residence of the GLES survey respondents can only be obtained directly from GESIS – Leibniz Institute for the Social Sciences as it is sensitive data**. 
 
-#### Code folder
+### Code folder
 The [Code](./Code/) folder contains the R files to reproduce the analysis in the paper:
 - [Core analysis.R](./Code/Core%20analysis.R): code to reproduce the analysis described in the main body of the paper.
 - [Appendix C.R](./Code/Appendix%20C.R): code to test for the parallel trends assumption.
