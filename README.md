@@ -17,6 +17,7 @@ The [Data](./Data/) folder contains the raw datasets used in the analysis:
 ### Code folder
 The [Code](./Code/) folder contains the R files to reproduce the analysis in the paper:
 - [Core analysis.R](./Code/Core%20analysis.R): code to reproduce the analysis described in the main body of the paper.
+- [Appendix B.R](./Code/Appendix%20B.R): code to compute descriptive statistics for the outcome variables.
 - [Appendix C.R](./Code/Appendix%20C.R): code to test for the parallel trends assumption.
 - [Appendix D.R](./Code/Appendix%20D.R): code to run the attrition analysis.
 - [Appendix E.R](./Code/Appendix%20E.R): code to run all design and specification robustness checks.
