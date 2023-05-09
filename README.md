@@ -1,6 +1,9 @@
 # not-so-radical-effects
 This repository contains the replication materials for the dissertation 'Not so Radical Effects: Estimating the Causal Impact of Radical Right Representation on Political Support', submitted in part-fulfilment of the BSc Philosophy, Politics and Economics at University College London.
 
+The paper seeks to estimate the causal impact of radical right representation on political support -- defined as a combination of political trust and satisfaction with democracy -- among supporters of both mainstream and radical right parties. 
+
+
 ## Repository contents
 
 ### Data folder
