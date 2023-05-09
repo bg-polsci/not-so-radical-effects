@@ -11,12 +11,12 @@ The [Data](./Data/) folder contains the raw datasets used in the analysis:
 
 **Please note: the data containing the constituency of residence of the GLES survey respondents can only be obtained directly from GESIS – Leibniz Institute for the Social Sciences as it is sensitive data**. 
 
-#### R code folder
-The [R code](./R%20code/) folder contains the R files to reproduce the analysis in the paper:
-- [Core analysis.R](./R%20code/Core%20analysis.R): code to reproduce the analysis described in the main body of the paper.
-- [Appendix C.R](./R%20code/Appendix%20C.R): code to test for the parallel trends assumption.
-- [Appendix D.R](./R%20code/Appendix%20D.R): code to run the attrition analysis.
-- [Appendix E.R](./R%20code/Appendix%20E.R): code to run all design and specification robustness checks.
-- [Figures.R](./R%20code/Figures.R): file to reproduce the figures in the main body of the paper.
+#### Code folder
+The [Code](./Code/) folder contains the R files to reproduce the analysis in the paper:
+- [Core analysis.R](./Code/Core%20analysis.R): code to reproduce the analysis described in the main body of the paper.
+- [Appendix C.R](./Code/Appendix%20C.R): code to test for the parallel trends assumption.
+- [Appendix D.R](./Code/Appendix%20D.R): code to run the attrition analysis.
+- [Appendix E.R](./Code/Appendix%20E.R): code to run all design and specification robustness checks.
+- [Figures.R](./Code/Figures.R): file to reproduce the figures in the main body of the paper.
 
 Please note: the code must be run in this order to avoid errors.
